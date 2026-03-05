@@ -1,0 +1,8 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Прочие временные файлы Python
+__pycache__/
+*.py[cod]
+*$py.class
